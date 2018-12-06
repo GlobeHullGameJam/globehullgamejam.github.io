@@ -3,7 +3,7 @@ date: 2017-12-02T10:58:08-04:00
 description: "Participant Registration is open for GlobeHull Jam 2018"
 featured_image: "/images/ggjLogo.png"
 tags: ["registration"]
-title: "Registration Open"
+title: "Registration Open 2018"
 ---
 
 {{< figure src="/images/ggjLogo.png" >}}

@@ -1,6 +1,6 @@
 ---
 title: Registration
-description: Sign up for GlobeHull Game Jam 2018
+description: Sign up for GlobeHull Game Jam 2019
 featured_image: '/images/ggjLogo.png'
 type: page
 menu:
@@ -9,4 +9,4 @@ menu:
 ---
 
 
-The event is open to University of Hull students and registration for the event is done through EventBrite [here](https://www.eventbrite.com/e/globehull-game-jam-january-26-28-2018-tickets-40964713561). Tickets cost £5 for the 48 hour event.
+The event is open to University of Hull students and registration for the event is done through EventBrite [here](https://www.eventbrite.com/e/globehull-game-jam-january-25th-27th-2019-tickets-53384639895). Tickets cost £5 for the 48 hour event.
